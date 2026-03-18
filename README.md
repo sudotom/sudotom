@@ -1,3 +1,3 @@
 # sudotom
 
-*readme incoming. currently have sudo.*
+*readme incoming. currently busy sudoing.*
